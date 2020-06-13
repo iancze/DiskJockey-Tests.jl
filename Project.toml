@@ -1,0 +1,13 @@
+name = "DiskJockeyTests"
+uuid = "94354ee9-4724-4f04-8103-7f0e82b4d795"
+authors = ["Ian Czekala"]
+version = "0.1.0"
+
+[compat]
+julia = "1.4"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

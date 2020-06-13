@@ -1,2 +1,3 @@
-# DiskJockey-Tests.jl
-Cluster-Level test suite for DiskJockey
+# DiskJockeyTests
+
+[![Build Status](https://github.com/iancze/DiskJockeyTests.jl/workflows/CI/badge.svg)](https://github.com/iancze/DiskJockeyTests.jl/actions)
